@@ -1,6 +1,6 @@
 # Justin Ng — Resume Website
 
-A simple, reproducible one-page site for STATS 140XP featuring an introduction, UCLA education, a concise experience list, LinkedIn contact, and a linked résumé. It uses plain HTML and CSS with no external packages or build process.
+A one-page site for STATS 140XP featuring an introduction, UCLA education, a concise experience list, LinkedIn contact, and a linked résumé.
 
 ## Files
 
