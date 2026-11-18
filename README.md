@@ -15,13 +15,3 @@ A one-page site for STATS 140XP featuring an introduction, UCLA education, a con
 3. Open `index.html` in your web browser. No installation or build is needed.
 4. Use the **View Resume** link to open the PDF.
 
-## Publish on GitHub Pages
-
-1. Create a public repository called `<your-GitHub-username>.github.io`.
-2. Upload these three files to the repository root.
-3. Under **Settings → Pages → Build and deployment**, select **Deploy from a branch**, `main`, and `/(root)`, then save.
-4. Access the published site at `https://<your-GitHub-username>.github.io/`.
-
-To make changes, edit `index.html` and commit the changes. GitHub Pages will redeploy the site.
-
-**Privacy:** The attached résumé contains personal contact information. Review it before publishing a public repository.
